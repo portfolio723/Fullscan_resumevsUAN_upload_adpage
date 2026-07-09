@@ -1,0 +1,6 @@
+{
+  "name": "Resume UAN Match",
+  "description": "Verify resume against UAN employment history with AI-powered timeline matching, company cross-checking, and gap detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
